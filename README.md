@@ -1,4 +1,4 @@
-# CNN-Course-project2
+# Course-project2-image-deblur
 
 Designing a deep learning model capable of deblurring images 
 
